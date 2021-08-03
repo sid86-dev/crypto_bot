@@ -1,4 +1,4 @@
-# <p align="center"> crypto_bot </p>
+<!-- # <p align="center"> crypto_bot </p> -->
 ## 💸💲💱💰💵
 > ### Hola! This is crypto bot. 
 > ### I will update you with latest crypto prices and also help you set alert!
