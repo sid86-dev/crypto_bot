@@ -4,7 +4,7 @@
 > ### I will update you with latest crypto prices and also help you set alert!
 <br>
 
-## [ Add me your Server 🤖 ](https://discord.com/api/oauth2/authorize?client_id=871319338597093398&permissions=0&scope=bot)
+## [ Add me to your Server 🤖 ](https://discord.com/api/oauth2/authorize?client_id=871319338597093398&permissions=0&scope=bot)
 <br>
 
 ### Enter `/help` for the guide:
